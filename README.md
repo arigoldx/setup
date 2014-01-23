@@ -1,4 +1,9 @@
+emacs
+=====
+for now, the whole directory
+
+
 dotfiles
 ========
 
-bashrc, emacs, vim
+bashrc, vim
