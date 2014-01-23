@@ -1,0 +1,554 @@
+((("_value" .
+   [1 0 0 0 0 0])
+  ("fill" .
+   [1 0 0 0])
+  ("timeStampToZeroFillFrom" .
+   [0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("zeroFillFrom" .
+   [3 0 0 0 0 0 0 0 0 0 0 0])
+  ("zerofill" .
+   [0 0 0 0 1 0 1 0])
+  ("zeroFillChartData" .
+   [0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0])
+  ("container" .
+   [1 0 0 0 0 0 0 0 0])
+  ("updateTimePerBar" .
+   [0 0 0 0 0 0 0 2 0 1 0 0 0 0 0 0])
+  ("newValue" .
+   [1 0 0 0 0 0 0 0])
+  ("val" .
+   [1 0 0])
+  ("buildLabelAndValue" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("valueText" .
+   [1 0 0 0 0 0 0 0 0])
+  ("createTextNode" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("time_per_bin" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("span" .
+   [1 0 0 0])
+  ("buildFilterContainer" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("setDates" .
+   [1 0 0 0 0 0 0 0])
+  ("maxNumberOfBins" .
+   [0 0 0 0 1 1 0 0 0 0 0 0 0 0 0])
+  ("numberOfViewPortBuffers" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("totalBins" .
+   [7 0 0 0 0 0 0 0 0])
+  ("binningEndDate" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("binning" .
+   [1 0 0 0 0 0 0])
+  ("bin" .
+   [1 0 0])
+  ("finished" .
+   [1 0 0 0 0 0 0 0])
+  ("loop" .
+   [1 0 0 0])
+  ("passed" .
+   [1 0 0 0 0 0])
+  ("first" .
+   [2 0 0 0 0])
+  ("startingIndex" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("total_bins" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("extend" .
+   [2 0 0 0 0 0])
+  ("timestamp" .
+   [3 0 0 0 0 0 0 0 0])
+  ("datum" .
+   [4 0 0 0 0])
+  ("createNewBin" .
+   [0 0 0 0 0 0 0 0 0 1 0 0])
+  ("i" .
+   [4])
+  ("should" .
+   [1 0 0 0 0 0])
+  ("variable" .
+   [1 0 0 0 0 0 0 0])
+  ("following" .
+   [1 0 0 0 0 0 0 0 0])
+  ("the" .
+   [1 0 0])
+  ("mostRecentDatum" .
+   [0 0 0 0 0 0 0 0 1 0 1 0 0 0 0])
+  ("rowcount" .
+   [2 0 0 0 0 0 0 0])
+  ("bin_increment" .
+   [1 0 0 0 0 0 1 1 0 0 0 0 0])
+  ("valueObject" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("bin_number" .
+   [1 0 0 0 0 0 0 1 0 0])
+  ("valuesArray" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("timestep" .
+   [4 0 0 0 0 0 0 0])
+  ("initializeLoopVariables" .
+   [0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("typeof" .
+   [3 0 0 0 0 0])
+  ("xAsTime" .
+   [1 0 0 1 0 0 0])
+  ("bigStep" .
+   [0 0 0 0 1 0 0])
+  ("currentFrame" .
+   [0 0 0 0 0 0 0 0 1 0 0 0])
+  ("timelapseStopped" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("12" .
+   [1 0])
+  ("newUIValue" .
+   [0 0 0 0 0 1 1 0 0 0])
+  ("movePlayback" .
+   [1 0 0 0 0 0 0 0 1 0 0 0])
+  ("addMapObserver" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("getManager" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("rightMargin" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("width" .
+   [3 0 0 0 0])
+  ("leftMargin" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("newRight" .
+   [1 0 0 0 0 0 0 0])
+  ("index" .
+   [8 0 0 0 0])
+  ("24" .
+   [2 0])
+  ("newLeft" .
+   [2 0 0 0 0 0 0])
+  ("originalLeft" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("css" .
+   [4 0 0])
+  ("append" .
+   [1 0 0 0 0 0])
+  ("id" .
+   [1 0])
+  ("leftSliderExtension" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0])
+  ("770" .
+   [3 0 0])
+  ("addSliderExtensions" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("convertSliderToUTC" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("toTimestamp" .
+   [5 0 0 0 0 0 1 0 1 0 0])
+  ("fromTimestamp" .
+   [5 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("validateStartAndEndTimes" .
+   [0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("start" .
+   [9 0 0 0 0])
+  ("if" .
+   [23 0])
+  ("getChartData" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  ("//bin/" .
+   [0 0 4 0 0 0])
+  ("getData" .
+   [1 0 0 0 0 0 0])
+  ("enableMarkers" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("disableMarkers" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("manager" .
+   [2 0 0 0 0 0 0])
+  ("to_filter" .
+   [1 0 0 0 0 0 0 0 0])
+  ("temporal-container" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("time_field" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("temporal-control" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("onPlay" .
+   [1 0 0 0 0 0])
+  ("direction" .
+   [2 0 0 0 0 0 0 0 0])
+  ("playButton" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("grey" .
+   [0 0 0 1])
+  ("white" .
+   [2 0 0 0 0])
+  ("0px" .
+   [1 0 0])
+  ("border-radius" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("60" .
+   [4 0])
+  ("step" .
+   [9 0 0 0])
+  ("height" .
+   [1 0 0 0 0 0])
+  ("green" .
+   [1 0 0 0 0])
+  ("values" .
+   [14 0 0 0 0 0])
+  ("crispEdges" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("none" .
+   [1 0 0 0])
+  ("line" .
+   [1 0 0 0])
+  ("text" .
+   [3 0 0 0])
+  ("lang" .
+   [4 0 0 0])
+  ("steelblue" .
+   [1 0 0 0 0 0 0 0 0])
+  ("bar" .
+   [2 0 0])
+  ("toggleTemporal" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("histogramToggle" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("1" .
+   [4])
+  ("0" .
+   [3])
+  ("10000" .
+   [1 0 0 0 0])
+  ("10" .
+   [6 0])
+  ("18" .
+   [2 0])
+  ("a" .
+   [1])
+  ("setTimeout" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("m" .
+   [2])
+  ("s" .
+   [4])
+  ("1000" .
+   [25 0 0 0])
+  ("l" .
+   [3])
+  ("perculateChange" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("1800" .
+   [6 0 0 0])
+  ("return" .
+   [9 0 0 0 0 0])
+  ("alert" .
+   [2 0 0 0 0])
+  ("f" .
+   [1])
+  ("data" .
+   [14 0 0 0])
+  ("self" .
+   [24 0 0 0])
+  ("to" .
+   [7 0])
+  ("from" .
+   [10 0 0 0])
+  ("filters" .
+   [31 0 0 0 0 0 0])
+  ("this" .
+   [158 0 0 0])
+  ("e" .
+   [2])
+  ("startTime" .
+   [4 0 0 0 0 0 0 0 0])
+  ("fromTime" .
+   [2 0 0 0 0 0 0 0])
+  ("endTime" .
+   [6 0 0 0 0 0 0])
+  ("toTime" .
+   [2 0 0 0 0 0])
+  ("event" .
+   [15 0 0 0 0])
+  ("function" .
+   [21 0 0 0 0 0 0 0])
+  ("log" .
+   [88 0 0])
+  ("console" .
+   [95 0 0 0 0 0 0])
+  ("float" .
+   [1 0 0 0 0])
+  ("style" .
+   [1 0 0 0 0])
+  ("appendChild" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("rangecontainer" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("click" .
+   [4 0 0 0 0])
+  ("t" .
+   [12])
+  ("className" .
+   [6 0 0 0 0 0 0 0 0])
+  ("play" .
+   [5 0 0 0])
+  ("createElement" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("document" .
+   [2 0 0 0 0 1 0 0])
+  ("var" .
+   [32 0 0])
+  ("load-file" .
+   [1 0 0 0 0 0 0 0 0])
+  ("load-path" .
+   [0 0 0 0 0 0 0 0 1])
+  ("add-to-list" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("remove-hook" .
+   [0 0 0 0 0 0 0 0 0 1 0])
+  ("kill-emacs-hook" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("save-persistent-scratch" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("callback" .
+   [2 0 0 0 0 0 0 0])
+  ("parseDateRange" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("d" .
+   [3])
+  ("JSON" .
+   [2 0 0 0])
+  ("stringify" .
+   [2 0 0 0 0 0 0 0 0])
+  ("null" .
+   [1 0 0 0])
+  ("int" .
+   [1 0 0])
+  ("int_name" .
+   [4 0 0 0 0 0 0 0])
+  ("query" .
+   [1 0 0 0 0])
+  ("filter" .
+   [1 0 0 0 0 0])
+  ("maxDate" .
+   [1 0 0 0 0 0 0])
+  ("minDate" .
+   [1 0 0 0 0 0 0])
+  ("timeString" .
+   [3 0 0 0 0 0 0 0 0 0])
+  ("dateField" .
+   [1 0 0 0 0 0 0 0 0])
+  ("name" .
+   [2 0 0 0])
+  ("Moonshadow" .
+   [0 0 0 0 1 0 1 0 0 1])
+  ("helps" .
+   [0 0 0 0 1])
+  ("timeSinceMidnight" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("min" .
+   [4 0 0])
+  ("else" .
+   [10 0 0 0])
+  ("max" .
+   [3 0 0])
+  ("type" .
+   [2 0 0 0])
+  ("fieldType" .
+   [12 0 0 0 0 0 0 0 0])
+  ("value" .
+   [17 0 0 0 0])
+  ("timeField" .
+   [1 0 0 0 0 0 0 0 0])
+  ("timepicker" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("timevalues" .
+   [7 0 0 0 0 0 0 0 0 0])
+  ("counts" .
+   [7 0 0 0 0 0])
+  ("rows" .
+   [6 0 0 0])
+  ("for" .
+   [2 0 0])
+  ("total" .
+   [4 0 0 0 0])
+  ("push" .
+   [3 0 0 0])
+  ("parsedData" .
+   [10 0 0 0 0 0 0 2 0 0])
+  ("next" .
+   [1 0 0 0])
+  ("filterable" .
+   [12 0 0 0 0 0 0 1 1 1])
+  ("ui" .
+   [6 0])
+  ("getStepSize" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("stepSize" .
+   [2 0 0 0 0 0 0 1])
+  ("startDate" .
+   [10 0 0 0 0 0 0 0 0])
+  ("endDate" .
+   [9 0 0 0 0 0 0])
+  ("originalFrom" .
+   [4 0 1 0 0 0 0 0 0 0 0 0])
+  ("originalTo" .
+   [3 0 0 0 0 0 1 0 0 0])
+  ("false" .
+   [3 0 0 0 0])
+  ("true" .
+   [5 0 0 0])
+  ("processDateOrTimeField" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("field" .
+   [3 0 0 0 0])
+  ("search" .
+   [1 0 0 0 0 0])
+  ("that" .
+   [40 0 0 0])
+  ("leftSliderAsDate" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("rightSliderAsDate" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("moveSliders" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("left" .
+   [3 0 0 0])
+  ("rightHandleValue" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 2])
+  ("slider" .
+   [2 0 0 0 0 0])
+  ("right" .
+   [8 0 0 0 0])
+  ("leftHandleValue" .
+   [0 0 0 0 0 2 0 0 0 0 0 0 0 0 1])
+  ("sliderToUTCConverter" .
+   [0 0 0 0 0 0 0 1 3 0 0 0 0 0 0 0 0 0 0 0])
+  ("UTCToSliderConverter" .
+   [0 0 0 1 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("scale" .
+   [3 0 0 0 0])
+  ("linear" .
+   [1 0 0 0 0 0])
+  ("domain" .
+   [4 0 0 0 0 0])
+  ("rangeRound" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("rightHandleAsDate" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("QQQ" .
+   [4 0 0])
+  ("rightSliderHandleAsDate" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 2 0 0 1 0 0 0 0 0 0 0])
+  ("leftSliderHandleAsDate" .
+   [0 0 0 0 0 1 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 2])
+  ("updateConverters" .
+   [0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0])
+  ("leftHandleAsDate" .
+   [2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("helpers" .
+   [2 0 0 0 0 0 0])
+  ("dateFromUTC" .
+   [0 0 0 0 0 0 1 0 1 0 0])
+  ("3600" .
+   [2 0 0 0])
+  ("getTableSlice" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 1])
+  ("getDataAndBuildChart" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("end" .
+   [5 0 0])
+  ("WEEK" .
+   [1 0 0 0])
+  ("getTableSliceString" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1])
+  ("new" .
+   [1 0 0])
+  ("Date" .
+   [1 0 0 0])
+  ("localDate" .
+   [1 0 0 0 0 0 0 0 0])
+  ("timezoneOffset" .
+   [0 0 0 0 0 0 0 1 1 0 0 0 0 0])
+  ("attr" .
+   [1 0 0 0])
+  ("rangeWidth" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("ticks" .
+   [1 0 0 0 0])
+  ("zoomTranslate" .
+   [1 0 0 0 0 0 0 1 1 0 0 0 0])
+  ("d3" .
+   [4 0])
+  ("translate" .
+   [2 0 0 0 0 0 0 0 0])
+  ("chartWidthAsTime" .
+   [1 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0])
+  ("potentialNumberOfBins" .
+   [1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1])
+  ("minNumberOfBins" .
+   [0 0 0 0 1 0 0 0 0 1 0 0 0 0 1])
+  ("viewPortBuffer" .
+   [1 0 0 0 0 0 0 0 0 1 0 0 0 1])
+  ("timePerBin" .
+   [9 0 0 0 0 0 0 1 0 0])
+  ("timeFromChartStartTimeToCurrentBin" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("viewPortEndDate" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("xScale" .
+   [4 0 0 0 0 1])
+  ("chartStartDate" .
+   [7 0 0 0 0 0 0 0 0 0 0 2 0 1])
+  ("chartEndDate" .
+   [4 0 0 0 0 0 0 0 0 0 0 0])
+  ("chart" .
+   [2 0 0 0 0])
+  ("chartStart" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("potentialChartStartDate" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 1 0 0 1 0 0 0])
+  ("potentialChartEndDate" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("viewPortStartDate" .
+   [1 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0])
+  ("viewPortWidthAsTime" .
+   [4 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1])
+  ("viewPortMinDate" .
+   [0 0 0 0 0 0 0 0 0 0 0 2 0 0 0])
+  ("chartEnd" .
+   [4 0 0 0 0 0 0 0])
+  ("xDelta" .
+   [4 0 0 0 0 0])
+  ("zoomScale" .
+   [4 0 0 0 0 0 0 0 0])
+  ("zooming" .
+   [2 0 0 0 0 0 0])
+  ("invert" .
+   [1 0 0 0 0 0])
+  ("Math" .
+   [3 0 0 0])
+  ("round" .
+   [3 0 0 0 0])
+  ("zoom" .
+   [1 0 0 0])
+  ("length" .
+   [1 0 0 0 0 0])
+  ("slicedData" .
+   [2 0 0 0 0 0 1 0 0 0])
+  ("sliceData" .
+   [0 0 0 1 0 0 0 0 0])
+  ("_maxY" .
+   [4 0 0 0 0])
+  ("set" .
+   [1 0 0])
+  ("range" .
+   [1 0 0 0 0])
+  ("margin" .
+   [1 0 0 0 0 0])
+  ("binData" .
+   [1 0 0 0 0 0 0])
+  ("resize" .
+   [2 0 0 0 0 0])
+  ("divWidth" .
+   [1 0 0 0 0 0 0 0])
+  ("now" .
+   [5 0 0])))
